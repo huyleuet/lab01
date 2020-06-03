@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="greeting">Chào mừng</string>
+    <string name="login_noti">Đăng nhập tài khoản SK365 trải nghiệm các tính năng hữu ich để theo dõi và
+    chăm sóc sức khỏe bạn nhé.</string>
+    <string name="google_login"> Đăng nhập bằng Google</string>
+    <string name="facebook_btn">Đăng nhập bằng facebook</string>
+    <string name="policy">Bằng đăng nhập bạn đã <b>Đồng ý</b> với <b>Chính sách</b> và <b>Điều khoản dịch vụ</b>
+        của chúng tôi</string>
+</resources>
